@@ -1,0 +1,179 @@
+{
+  "usdmVersion": "4.0.0",
+  "study": {
+    "id": "",
+    "name": "",
+    "description": "",
+    "studyIdentifiers": [
+      {
+        "id": "",
+        "value": "",
+        "type": ""
+      }
+    ],
+    "studyProtocolReferences": [
+      {
+        "id": "",
+        "regVersion": "",
+        "status": "",
+        "amendmentNumber": ""
+      }
+    ],
+    "studyDesigns": [
+      {
+        "id": "",
+        "name": "",
+        "description": "",
+        "studyType": "",
+        "therapeuticArea": "",
+        "studyIndications": [
+          {
+            "id": "",
+            "description": "",
+            "codes": [
+              {
+                "code": "",
+                "dictionary": ""
+              }
+            ]
+          }
+        ],
+        "objectives": [
+          {
+            "id": "",
+            "description": "",
+            "level": "",
+            "endpoints": [
+              {
+                "id": "",
+                "description": "",
+                "purpose": ""
+              }
+            ]
+          }
+        ],
+        "studyArms": [
+          {
+            "id": "",
+            "name": "",
+            "type": "",
+            "description": ""
+          }
+        ],
+        "studyEpochs": [
+          {
+            "id": "",
+            "name": "",
+            "sequence": 0
+          }
+        ],
+        "studyElements": [
+          {
+            "id": "",
+            "name": "",
+            "duration": ""
+          }
+        ],
+        "studyCells": [
+          {
+            "id": "",
+            "armId": "",
+            "epochId": "",
+            "elementId": ""
+          }
+        ],
+        "studyPopulations": [
+          {
+            "id": "",
+            "name": "",
+            "description": ""
+          }
+        ],
+        "eligibilityCriteria": [
+          {
+            "id": "",
+            "description": "",
+            "type": "",
+            "category": ""
+          }
+        ],
+        "scheduleOfActivities": [
+          {
+            "id": "",
+            "name": "",
+            "activities": [
+              {
+                "id": "",
+                "name": "",
+                "biomedicalConcepts": [
+                  {
+                    "id": "",
+                    "name": "",
+                    "conceptCode": ""
+                  }
+                ]
+              }
+            ],
+            "encounters": [
+              {
+                "id": "",
+                "name": "",
+                "scheduledAt": ""
+              }
+            ],
+            "timeline": {
+              "id": "",
+              "instances": []
+            }
+          }
+        ],
+        "estimands": [
+          {
+            "id": "",
+            "description": "",
+            "variable": ""
+          }
+        ],
+        "interventions": [
+          {
+            "id": "",
+            "name": "",
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "governance": {
+      "id": "",
+      "sponsors": [
+        {
+          "id": "",
+          "name": "",
+          "role": ""
+        }
+      ],
+      "investigators": [
+        {
+          "id": "",
+          "name": "",
+          "role": ""
+        }
+      ],
+      "ethicsCommittees": [
+        {
+          "id": "",
+          "name": ""
+        }
+      ]
+    },
+    "productOrganization": {
+      "administeredProducts": [
+        {
+          "id": "",
+          "name": "",
+          "route": ""
+        }
+      ]
+    }
+  }
+}
